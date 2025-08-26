@@ -1,2 +1,2 @@
 # TailwindCSS-Lott
-lotto no responsive
+basic btn
